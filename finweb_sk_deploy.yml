@@ -15,7 +15,7 @@ variables:
   - name: resourceGroup
     value: 'rg-student06'
   - name: webAppName
-    value: 'finweb_sk'
+    value: 'finweb-sk'
 
 steps:
 - script: |
